@@ -7,11 +7,6 @@
 {{cookiecutter.author_name}}
 
 
-## SRC
-
-{{cookiecutter.src_name}}
-
-
 ## Description
 
 {{cookiecutter.description}}
